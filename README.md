@@ -6,10 +6,9 @@ This project provides an implementation of **ResNet (Residual Networks)** using 
 ## Repository Structure
 ```
 📂 ResNet-Pytorch
-├── resnet.py             # Implementation of the ResNet model
+├── model.py             # Implementation of the ResNet model
 ├── train.py              # Training script
-├── test.py               # Testing and evaluation script
-├── dataset.py            # Dataset handling   
+├── data.py                
 ├── README.md             # Project documentation
 └── .gitignore            # Git ignore file
 ```
