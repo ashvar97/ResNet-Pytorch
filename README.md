@@ -9,8 +9,7 @@ This project provides an implementation of **ResNet (Residual Networks)** using 
 ├── resnet.py             # Implementation of the ResNet model
 ├── train.py              # Training script
 ├── test.py               # Testing and evaluation script
-├── dataset.py            # Dataset handling
-├── requirements.txt      # Dependencies and required libraries
+├── dataset.py            # Dataset handling   
 ├── README.md             # Project documentation
 └── .gitignore            # Git ignore file
 ```
