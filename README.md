@@ -17,10 +17,7 @@ This project provides an implementation of **ResNet (Residual Networks)** using 
 ### Prerequisites
 - **Python 3.x**
 - **PyTorch**
-- Install dependencies using:
-  ```bash
-  pip install -r requirements.txt
-  ```
+
 
 ## Usage
 ### Training the Model
